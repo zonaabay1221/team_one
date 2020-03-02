@@ -1,0 +1,12 @@
+.bg-primary{
+    color: white;
+}
+.box{
+    border-radius: 3%;
+}
+.bg-grey{
+    background-color: rgba(214, 214, 214, 0.562);
+}
+.box-shadow{
+    box-shadow: 13px 15px 27px -16px rgba(173,173,173,0.84);
+}
